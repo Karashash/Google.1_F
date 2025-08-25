@@ -1,0 +1,4 @@
+streamlit==1.36.0
+python-docx==1.1.2
+google-cloud-translate==3.15.4
+tqdm==4.66.4
